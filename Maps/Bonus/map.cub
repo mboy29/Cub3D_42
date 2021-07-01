@@ -1,0 +1,24 @@
+R 800 600
+NO ./Textures/xpm/wallN.xpm
+SO ./Textures/xpm/wallS.xpm
+EA ./Textures/xpm/wallE.xpm
+WE ./Textures/xpm/wallW.xpm
+S1 ./Textures/xpm/sprite1.xpm
+S2 ./Textures/xpm/sprite2.xpm
+S3 ./Textures/xpm/sprite3.xpm
+S4 ./Textures/xpm/sprite4.xpm
+F ./Textures/xpm/floor.xpm
+C ./Textures/xpm/ceiling.xpm
+
+11111111111111111111
+12030002120000002151
+10005040100500500101
+10540050130000400001
+10004000111111110101
+11110111040031110131
+10000400005401110111
+15111111000031114031
+10000000010111500001
+11111110110111110001
+15000000400000000N01
+11111111111111111111
